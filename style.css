@@ -3,12 +3,68 @@
     margin: 0;
 }
 .container{
-    width: 80%;
-    height: 100%;
+    width: 80%; 
     margin: auto;
-    background-color: rgba(247, 232, 232, 0.815);
+    background-color: rgba(243, 233, 254);
+    font-family: sans-serif;
+
 }
 .header{
     text-align: center;
 }
-
+#head{
+    font-size: 50px;
+    font-weight: 900;
+    color: #473478;
+}
+.header2{
+    background-color: rgba(118, 77, 212);
+    border-radius: 15px;
+    width: 70%;
+    margin: auto;
+    padding: 2rem;
+}
+#başlık2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: white;
+}
+p{
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+    width: 100%;
+    position: relative;
+    padding-left: 5px;
+}
+#img{
+    width: 250px;
+    margin-bottom: 2rem;
+}
+#black{
+    color: #ccbccb;
+    border-left: 3px solid orange;
+}
+.footer{
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+    padding-bottom: 0.1rem;
+    font-size: 2rem;
+}
+#link{
+   background-color: #f5c73f;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+}
+#copyright{
+    color: black;
+}
