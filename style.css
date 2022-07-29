@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    background-color: rgba(247, 232, 232, 0.815);
+}
+.header{
+    text-align: center;
+}
+
